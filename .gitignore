@@ -9,3 +9,4 @@ notebooks/wandb/debug-cli.gbarbadillo.log
 notebooks/*.json
 scripts/*.json
 site/*
+.env
